@@ -6,3 +6,5 @@ This tutorial mainly focuses on using Git and using GitHub as its remote.
 This repository is built step by step in the tutorial
 
 It now includes steps for GitHub
+
+## This is a new line to see what push can do
